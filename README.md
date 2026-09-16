@@ -1,9 +1,8 @@
 # Ratika | Senior Capital Markets Production Support Engineer
-> **8+ Years Experience** | Specialist in Front-Office Trading Environments, EOD Pipelines, & Automated Toil Reduction  
-> 📍 Mississauga, ON (Valid Canadian Open Work Permit) | [📩 Email Me](mailto:ratikajohri.438@gmail.com)
- | | [💼 LinkedIn Profile](https://linkedin.com)
- | 🐙 [github.com/Ratika88] | | [📥 Download Complete CV (PDF)](./Ratika_Bartaria_Resume.pdf)
 
+| 📍 Location | 📩 Contact | 💼 Professional | 📥 Resume |
+| :--- | :--- | :--- | :--- |
+| Mississauga, ON <br>(Valid Canadian Open Work Permit) | [Email Me](mailto:ratikajohri.438@gmail.com) | [LinkedIn Profile](https://linkedin.com) <br> [GitHub Profile](https://github.com) | [Download Complete CV (PDF)](./Ratika_Bartaria_Resume.pdf) |
 
 ---
 
