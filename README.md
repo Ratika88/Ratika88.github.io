@@ -1,7 +1,8 @@
 # Ratika | Senior Capital Markets Production Support Engineer
 > **8+ Years Experience** | Specialist in Front-Office Trading Environments, EOD Pipelines, & Automated Toil Reduction  
 > 📍 Mississauga, ON (Valid Canadian Open Work Permit) | [📩 Email Me](mailto:ratikajohri.438@gmail.com)
- | 🔗 linkedin.com/in/ratika-bartaria-7570a5175 | 🐙 [github.com/Ratika88]
+ | 🔗 linkedin.com/in/ratika-bartaria-7570a5175 | 🐙 [github.com/Ratika88] | | [📥 Download Complete CV (PDF)](./Ratika_Bartaria_Resume.pdf)
+
 
 ---
 
@@ -27,8 +28,9 @@ Highly analytical Capital Markets IT Professional with over 8 years of dedicated
 ## 💻 Featured Production Support Automation Utilities
 *Engineered during my relocation sabbatical to mimic critical Capital Markets environments, resolve systemic infrastructure faults, and drive down MTTR.*
 
-### 🔍 1. EOD Market Data Validator & Incident Routing Engine
-**Repository:** [github.com/Ratika88/eod-market-data-validator](https://github.com/eod-market-data-validator)
+### 🔍 1. [EOD Market Data Validator & Incident Routing Engine](https://github.com)
+**Repository:** [github.com/Ratika88/eod-market-data-validator](https://github.com)
+
 * **The Problem:** Upstream market data integrity issues, missing records, or pricing anomalies cause delayed EOD financial processing, risking downstream SLA breaches with business desks.
 * **The Solution:** A Python data-integrity sentinel that processes daily EOD market transaction feeds, parses validation streams, and isolates production-impacting anomalies before they compromise risk engines or PnL processing pipelines.
 * **Key Automated Protections:**
@@ -37,8 +39,9 @@ Highly analytical Capital Markets IT Professional with over 8 years of dedicated
   * **Market Variance Detection:** Triggers real-time alerts for sudden high-volatility pricing data spikes.
   * **Enterprise Alert Integration:** Outputs formatted data log reports and mimics a structural JSON payload transmission ready to seed downstream ticketing systems like ServiceNow or Jira.
 
-### ⚙️ 2. EOD Batch Schedule Dependency Checker
-**Repository:** [github.com/Ratika88/eod-batch-dependency-checker](https://github.com/eod-batch-dependency-checker)
+### ⚙️ 2. [EOD Batch Schedule Dependency Checker](https://github.com)
+**Repository:** [://github.com](https://github.com)
+
 * **The Problem:** 0-byte file transfers or corrupted upstream data feeds slip past basic scheduling tools, corrupting core database tables and halting critical reporting streams.
 * **The Solution:** An automated pre-flight guardrail utility for enterprise batch scheduling streams (Control-M / AutoSys). It validates the physical availability and structural capacity volume of upstream data prerequisite files before processing.
 * **Key Operational Features:**
@@ -47,8 +50,9 @@ Highly analytical Capital Markets IT Professional with over 8 years of dedicated
   * **Fail-Safe Processing Controls:** Emits explicit termination signals (`HALT_DOWNSTREAM_PROCESS`) during exception drops to guarantee zero corruption in core Risk and PnL frameworks.
   * **Enterprise Operations Handoff:** Generates local tracking logs and actionable JSON data payloads optimized for immediate routing into ServiceNow or Jira.
 
-### 📈 3. System Health Dashboard Data Aggregator
-**Repository:** [github.com/Ratika88/system-health-dashboard-aggregator](https://github.com/system-health-dashboard-aggregator)
+### 📈 3. [System Health Dashboard Data Aggregator](https://github.com)
+**Repository:** [://github.com](https://github.com)
+
 * **The Problem:** Infrastructure and application support analysts manually running morning checks across distributed environments often miss leading indicators of system degradation.
 * **The Solution:** An automated morning system health checker that aggregates critical infrastructure performance metrics across production clusters before major operational processing windows initiate.
 * **Key Operational Features:**
